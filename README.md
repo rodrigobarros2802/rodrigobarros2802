@@ -1,4 +1,4 @@
-### Olá eu sou a Rodrigo Barros, estudante Front-End e estou em busca da minha primeira oportunidade!
+### Olá eu sou Rodrigo Barros, estudante Front-End e estou em busca da minha primeira oportunidade!
 
 ##
 
