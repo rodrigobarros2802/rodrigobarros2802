@@ -1,4 +1,6 @@
-### Olá eu sou Rodrigo Barros, estudante Front-End!
+### Olá eu sou Rodrigo Barros, 
+
+Desenvolvedor Front-End
 
 ##
 
