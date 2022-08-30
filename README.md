@@ -1,6 +1,4 @@
-### Olá eu sou Rodrigo Barros, 
-
-Desenvolvedor Front-End
+### Olá eu sou Rodrigo Barros, Desenvolvedor Front-End.
 
 ##
 
