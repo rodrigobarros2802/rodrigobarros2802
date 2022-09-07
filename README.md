@@ -1,5 +1,24 @@
 ### Olá eu sou Rodrigo Barros, Desenvolvedor Front-End | JavaScript | HTML5 | CSS3
 
+💻 Desenvolvedor Front-End graduando em Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Web, sempre fui apaixonado por Tecnologia. Após 6 anos atuando na área de Logística decidir migrar para o mundo da Tecnologia.
+
+🧑‍💻 Atualmente estou criando projetos para desenvolver minhas Hard-Skills solucionando problemas do mundo real e trazendo para a vida tecnológica. 
+
+💬 Gosto de resolver problemas e pensar em soluções focadas na experiência do usuário.
+
+📈 Tecnologias 
+🔹 JavaScript
+🔹 HTML 5
+🔹 CSS3
+🔹 Git
+🔹 GitHub
+
+📚 Atualmente estudando 
+🧠 Inglês | JavaScript
+
+🔗Meu LinkedIn
+https://www.linkedin.com/in/rodrigobarros2802/
+
 ##
 
 <div align="center">
