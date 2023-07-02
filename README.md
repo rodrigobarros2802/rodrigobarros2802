@@ -14,7 +14,7 @@
 🔹 GitHub
 
 📚 Atualmente estudando 
-🧠 Inglês | JavaScript
+🧠 Inglês | JavaScript | Bootstrap
 
 🔗Meu LinkedIn
 https://www.linkedin.com/in/rodrigobarros2802/
