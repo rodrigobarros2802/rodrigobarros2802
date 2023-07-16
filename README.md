@@ -1,4 +1,4 @@
-### Olá eu sou Rodrigo Barros, Desenvolvedor Front-End | JavaScript | HTML5 | CSS3
+### Olá eu sou Rodrigo Barros, Desenvolvedor Front-End | JavaScript | HTML5 | CSS3 | Git & GitHub | Figma
 
 💻 Desenvolvedor Front-End graduando em Análise e Desenvolvimento de Sistemas com foco em Desenvolvimento Web, sempre fui apaixonado por Tecnologia. Após 6 anos atuando na área de Logística decidir migrar para o mundo da Tecnologia.
 
@@ -12,9 +12,10 @@
 🔹 CSS3
 🔹 Git
 🔹 GitHub
+🔹 Figma
 
 📚 Atualmente estudando 
-🧠 Inglês | JavaScript | Bootstrap
+🧠 JavaScript | Bootstrap
 
 🔗Meu LinkedIn
 https://www.linkedin.com/in/rodrigobarros2802/
