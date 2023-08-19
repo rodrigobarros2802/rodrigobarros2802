@@ -16,6 +16,7 @@
 
 📚 Atualmente estudando 
 🧠 JavaScript | Bootstrap
+
 📚 Graduando em Desenvolvimento Full-Stack na Estácio
 
 🔗Meu LinkedIn
